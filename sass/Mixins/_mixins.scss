@@ -1,0 +1,11 @@
+@mixin body {
+    font-size: 48px;
+    text-align: center;
+    padding-top: 100px;
+    margin: 0 auto;
+}
+
+@mixin tooltip {
+    font-weight: 18px;
+    position: relative;
+}
